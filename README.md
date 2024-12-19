@@ -1,12 +1,7 @@
-# Hola, soy Jose Ruzafa 👋
+# Hello, I' am Jose Ruzafa 👋
 
-Soy un desarrollador backend apasionado por la tecnología y la innovación. Mi objetivo es crecer profesionalmente en un entorno dinámico y colaborativo donde pueda aplicar mis habilidades en diseño y arquitectura de software. Me motiva trabajar en proyectos desafiantes que me permitan seguir aprendiendo y mejorando continuamente.
-
-Me encantaría formar parte de una empresa que valore la creatividad, la calidad y la mejora continua. Busco una organizaciónque esté comprometida con la adopción de nuevas tecnologías y metodologías ágiles. 
-
-Como objetivos profesionales, a corto plazo, deseo contribuir con mi experiencia en proyectos que impliquen el diseño y desarrollo de arquitecturas de software escalables y eficientes.
-En resumen, busco un entorno que me permita crecer tanto personal como profesionalmente, y donde pueda aportar significativamente al éxito de la empresa.
-
-### Redes sociales
-- [💡 Twitter](https://twitter.com/jruzafa)
-- [👔 Linkedin](https://www.linkedin.com/in/joseruzafa)
+I am a backend developer specialized in PHP as a main language, I have 9 years of experience
+in development, since 2020 I work with DDD (hexagonal architecture), testing, SOLID principles,
+CQRS, software design patterns and event-driven architecture, with concern in the continuous
+improvement of a cleaner and more robust code, always using the correct tool for the problem
+to be solved.
