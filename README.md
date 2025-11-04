@@ -1,7 +1,17 @@
-👋 Hello! I'm Jose Ruzafa, a backend developer with a passion for software design, clean architecture, and thoughtful solutions.
+## 👋 Hi, I'm Jose Ruzafa
 
-🔧 I primarily work with various programming languages, applying DDD principles and hexagonal architecture to build scalable, maintainable, and change-ready systems. I love transforming complex problems into clear, efficient, and sustainable code.
+I'm a **Senior Backend Developer & Software Architect** with 10+ years of experience building scalable, maintainable, and high-performance systems.  
+My work focuses on **clean architecture**, **Domain-Driven Design (DDD)**, and **event-driven systems** that solve real business problems efficiently.
 
-💡 I'm motivated by continuous learning, writing purposeful code, and collaborating on projects where technical quality and simplicity are priorities.
+💡 I’m passionate about:
+- Designing **robust backend architectures**
+- Applying **best practicesx** and principles  
+- Improving developer experience through **automation and observability**  
+- Delivering reliable services on **AWS**, **Google Cloud**
+- AWS developer certificate
 
-🚀 In this profile, you'll find some of my experiments, internal tools, and solutions that I use daily as a backend developer.
+🧰 **Tech Stack**
+`Go` · `PHP` · `Ruby` · `Python` · `MySQL` · `MongoDB` · `Redis` · `Kafka` · `RabbitMQ` · `ElasticSearch` · `AWS` · `GCP` · `Docker` · `Kubernetes`
+
+📫 **Let's connect**
+[LinkedIn](https://www.linkedin.com/in/joseruzafa) • [GitHub](https://github.com/jruzafa)
