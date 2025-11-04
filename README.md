@@ -5,7 +5,7 @@ My work focuses on **clean architecture**, **Domain-Driven Design (DDD)**, and *
 
 💡 I’m passionate about:
 - Designing **robust backend architectures**
-- Applying **best practicesx** and principles  
+- Applying **best practices** and principles  
 - Improving developer experience through **automation and observability**  
 - Delivering reliable services on **AWS**, **Google Cloud**
 - AWS developer certificate
